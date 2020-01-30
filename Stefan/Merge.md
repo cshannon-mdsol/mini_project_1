@@ -28,3 +28,6 @@ Below is a tutorial on how to create a merge conflict:
 1.	**Forking** is exact replica of the repository where it allows developers to freely experiment such as changing coding without ever touching the original project. Basically forking resembles as a bridge connection between the copy and back to the original repository while utilizing the Pull Request.
 2.	**Pull Request** notifies other developers concerning on any changes that someone had made towards a branch within GitHub.
 3.	**Cloning** on the other hand only works with GitHub where its clone remotely and synced such as one on GitHub and the other repository on your personal desktop computer.
+
+
+TEST

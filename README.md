@@ -11,3 +11,9 @@ Mini Project 1 - Stefan DeRosa, Kimberly McDaniel, Chris Shannon
 * [Linux Commands](/Vi.md)
 * [GitFlow Explaination](/gitFlow.md)
 * [Collaborating with Git](/gitCollab.md)
+
+
+**Changelog**
+* Add task list, add links to individual team pages - Kim
+* Init creation - Chris
+

@@ -6,6 +6,7 @@ Mini Project 1 - Stefan DeRosa, Kimberly McDaniel, Chris Shannon
 * [Git Tutorial](https://github.com/cshannon-mdsol/mini_project_1/blob/master/Stefan/HowToInstallGit.md)
 * [Branch Tutorial](https://github.com/cshannon-mdsol/mini_project_1/blob/master/Stefan/Branch.md)
 * [Merge](https://github.com/cshannon-mdsol/mini_project_1/blob/master/Stefan/Merge.md)
+* [Adding a Collaborator to a GutHub Repo](https://github.com/cshannon-mdsol/mini_project_1/blob/master/Stefan/Collaborator.md)
 
 
 #Citation

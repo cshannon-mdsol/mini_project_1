@@ -3,6 +3,7 @@
 1.	Merge conflict happens when programmers both make changes to the same line within a file or when a programmer is modifying a file that anther programmer had deleted. For example, when make changes to a file that is on a branch such as Master while you make another change using the same file on another branch such as feature. Once the changes had been made within the feature branch and you then merge the master while you are still in the feature branch. This is when the merge conflict occurred. 
 There are different ways to avoid merging conflicts. First you can use the git difftool in which allow developers compare both files at the same time, side by side. 
 ![GitHub Logo](/images/Image5.png)
+
 Below is a tutorial on how to create a merge conflict:
 1. You want to create a new branch called "NewBranch"
 	1. git checkout -b NewBranch
@@ -14,12 +15,12 @@ Below is a tutorial on how to create a merge conflict:
 	1. git checkout master
 ![GitHub Logo](/images/Image13.png)
 3. Once checkout, lets edit the first line of the file.txt and commit within master.
-a. git add file.txt 
-b. git commit -m "Changing file in master”
+	1. git add file.txt 
+	2. git commit -m "Changing file in master”
 4. Once you complete updating your file, lets now checkout NewBranch and edit the file.txt first line as well.
 	1. git checkout feature
-b. git add file.txt
-c. git commit -m "Changing file in feature"
+	2. git add file.txt
+	3. git commit -m "Changing file in feature"
 5. Once change lets now merge master. Be sure that the NewBranch is checkout.
 	1. git merge master
 ![GitHub Logo](/images/Image14.png)

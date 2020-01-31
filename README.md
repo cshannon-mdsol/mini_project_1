@@ -5,7 +5,7 @@ Mini Project 1 - Stefan DeRosa, Kimberly McDaniel, Chris Shannon
 * [Linux Commands](/vi.md)
 * [Git Tutorial](https://github.com/cshannon-mdsol/mini_project_1/blob/master/Stefan/HowToInstallGit.md)
 * [Branch Tutorial](https://github.com/cshannon-mdsol/mini_project_1/blob/master/Stefan/Branch.md)
-* [Merge, Forking vs. Cloning, Pull Request](https://github.com/cshannon-mdsol/mini_project_1/blob/master/Stefan/Merge.md)
+* [Merge Conflict, Forking vs. Cloning, Pull Request](https://github.com/cshannon-mdsol/mini_project_1/blob/master/Stefan/Merge.md)
 * [Adding a Collaborator to a GutHub Repo](https://github.com/cshannon-mdsol/mini_project_1/blob/master/Stefan/Collaborator.md)
 
 

@@ -1,3 +1,4 @@
+
 # Basic Linux Commands
 
 Here are a number of commands you may find helpful during your Linux journey while using the command line.
@@ -63,3 +64,18 @@ The **history** command command lists all the previously used commands you’ve 
 `history`
 
 
+## Home directory and ~
+The significance of the Home directory and ~ is that the tilde (~) represents your home directory and it’s the short cut to get back quickly to the home directory. For example, typing cd ~ in terminal will quickly and efficiently take you back to your home directory. 
+
+
+## File paths in Linux
+
+![Linux Directory Structure](../images/Linux-Directory-Structure.jpeg)
+
+Further reading and more detailed information about the detailed strcture of the directory structure can be [found here!](https://www.tecmint.com/linux-directory-structure-and-important-files-paths-explained/)
+
+
+
+## Tips and tricks
+* **Using the tab key to complete file paths** The tab key can be used to fill up the terminal so that you don't have to type up the entire folder or directory. Start typing the beginning of a folder or file and then hit tab and terminal will fill in the rest! For example, typing "cd Beginni" and tab will fill in the folder name of "cd BeginningOfMyLongFolderName" to save you some time. 
+* **Using up and down arrow for history** You don't need to retype the same commands in terminal over and over. Use the up and down arrows to traverse recently used commands you entered in terminal to use them again. This will save you a lot of time if you're repeating common tasks. 

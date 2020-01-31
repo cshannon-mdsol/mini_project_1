@@ -31,9 +31,5 @@ Forking is exact replica of the repository where it allows developers to freely 
 Cloning on the other hand only works with GitHub where its clone remotely and synced such as one on GitHub and the other repository on your personal desktop computer.
 
 # Pull Request 
-Pull Request notifies other developers concerning on any changes that someone had made towards a branch within GitHub. It basically allows developers know that they are done with the updates/changes. Pull request doesnt work with Git but with GutHub.
-
-
-
-
-TEST Remove
+Pull Request notifies other developers concerning on any changes that someone had made towards a branch within GitHub. It basically allows developers know that they are done with the updates/changes. Pull request doesnt work with Git but with GutHub.See image below.
+![GitHub Logo](/images/Image30.png)

@@ -16,4 +16,4 @@
 	1.	`git clone`
 11.	Type in git status to see what branch you are in.
 	1.	`git status`
-12.	Once the top list has been completed we can now start to learn branching and other concepts. [Click here](https://github.com/cshannon-mdsol/mini_project_1/blob/master/Stefan/Branch.md) to continue to learn about branching..
+12.	Once the top list has been completed we can now start to learn branching and other concepts. [Click here](https://github.com/cshannon-mdsol/mini_project_1/blob/master/Stefan/Branch.md) to continue to learn about branching.

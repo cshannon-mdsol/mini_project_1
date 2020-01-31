@@ -1,3 +1,7 @@
 Cat in the Hat!
+
 Transformers
-Home Alone
+
+Titanic
+Star Wars A New Hope
+Star Wars Empire Strikes Back

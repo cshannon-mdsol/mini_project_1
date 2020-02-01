@@ -26,9 +26,12 @@ Mini Project 1 - Stefan DeRosa, Kimberly McDaniel, Chris Shannon
 6. https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/
 7. https://datasift.github.io/gitflow/IntroducingGitFlow.html
 8. https://nvie.com/posts/a-successful-git-branching-model/
+9. https://help.github.com/en/github/getting-started-with-github/github-glossary
 
 
 **Changelog**
+* 01/02/20 Added gitFlow glossary to gitCommandsAndTerminology - Chris
+* 01/02/20 Added file gitCommandsAndTerminology to folder 'Chris' - Chris
 * 31/01/20 Added gitFlow explanation to [gitFlow.md](/Chris/gitFlow.md) - Chris
 * 31/01/20 Added images for gitFlow to images folder (Parallels.png, Features.png, Release.png, Complete.png) - Chris
 * 31/01/20 Added folder 'Chris', added [gitFlow.md](/Chris/gitFlow.md) to folder 'Chris' - Chris
